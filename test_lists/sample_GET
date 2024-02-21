@@ -1,0 +1,14 @@
+GET /content?&username=USERNAME&password=PASSWORD HTTP/2
+Host: target.example.com
+Cookie: s_fid=2CC1D510AFE6A2E2; s_lv=1643117138; _clsk=41g1241
+Sec-Ch-Ua: "Chromium";v="109", "Not_A Brand";v="99"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.75 Safari/537.36
+Sec-Ch-Ua-Platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://target.example.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8

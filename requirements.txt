@@ -1,0 +1,15 @@
+boto3
+requests
+urllib3
+pyfiglet
+fontstyle
+ascii_magic
+botocore
+argparse
+certifi
+ipaddress
+cryptography
+six
+idna
+chardet
+termcolor
